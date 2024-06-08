@@ -1,5 +1,5 @@
 
-# AutoDevLog-Server
+# AutoDevLog
 - - -
 ## 기능소개
 ‘AutoDevLog’ 는 키워드를 기반으로 LLM(Large Language Model) 을 통해 블로그 게시글 작성 웹서비스 입니다. 다양한 블로그 게시글 중에서도 트러블 슈팅(Trouble Shooting) 게시글을 작성하는 가능을 제공합니다.
